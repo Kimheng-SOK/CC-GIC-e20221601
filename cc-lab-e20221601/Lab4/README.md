@@ -5,7 +5,7 @@ Copy this template to `cc-lab-YOUR_ID/lab4/README.md` in your own repository. Fo
 - **Student name: SOK KIMHENG**
 - **Student ID: e20221601**
 - **Learner Lab user name:**
-- **Date completed:**
+- **Date completed: November 10, 2026**
 
 ---
 
